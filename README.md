@@ -48,7 +48,7 @@ pip install pandas matplotlib seaborn numpy scikit-learn statsmodels imbalanced-
 ## Results
 -
 
-Getting Started
+## Getting Started
 Clone this repository to your local machine.
 Set up a virtual environment and install the required dependencies using pip.
 Run the notebooks in the order specified above. Note: Make sure to update the file paths in the notebooks if necessary.
